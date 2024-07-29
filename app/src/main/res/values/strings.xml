@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nubank Clone</string>
+
+    <string name="txt_nome_usuario">Olá, Marcos</string>
+</resources>
